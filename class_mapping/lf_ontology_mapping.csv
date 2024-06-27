@@ -1,0 +1,68 @@
+label,class
+lodging facility,LodgingFacility
+hotel,Hotel
+boutique hotel,Hotel
+country house hotel,CountryHouseHotel
+country houses,CountryHouseHotel
+country house,CountryHouseHotel
+bunker hotel,BunkerHotel
+under water hotel,UnderWaterHotel
+tree house hotel,TreeHouseHotel
+ice hotel,IceHotel
+cave hotel,CaveHotel
+capsule hotel,CapsuleHotel
+campground,Campground
+campsite,Campground
+house,House
+townhouse,House
+cottage,House
+earth house,House
+tiny house,House
+beach house,House
+guest house,GuestHouse
+homestay,GuestHouse
+guesthouse,GuestHouse
+bungalow,Bungalow
+holiday home,HolidayHome
+vacation homes,HolidayHome
+vacation home,HolidayHome
+holiday homes,HolidayHome
+vacation house,HolidayHome
+holiday house,HolidayHome
+villa,Villa
+a rated lodging facility.,RatedLF
+a high rated lodging facility.,HighRatedLF
+a low rated lodging facility.,LowRatedLF
+a medium rated lodging facility.,MediumRatedLF
+resort,Resort
+skiresort,SkiResort
+ski resort,SkiResort
+loft,Loft
+apartment,Apartment
+condominium,Apartment
+apartments,Apartment
+flat,Apartment
+condo,Apartment
+holiday apartment,Apartment
+aparthotel,Aparthotel
+apartment hotel,Aparthotel
+condo hotel,Aparthotel
+serviced apartment,Aparthotel
+serviced apartments,Aparthotel
+boat,Boat
+house boat,HouseBoat
+houseboat,HouseBoat
+boat hotel,Botel
+botel,Botel
+hotelship,Botel
+bed and breakfast,BedAndBreakfast
+bedandbreakfast,BedAndBreakfast
+bnb,BedAndBreakfast
+b&b,BedAndBreakfast
+inn,Inn
+motel,Motel
+pension,Pension
+boarding house,Pension
+riad,Riad
+hostel,Hostel
+hostal,Hostal

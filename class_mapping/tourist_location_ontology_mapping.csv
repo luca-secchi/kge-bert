@@ -1,0 +1,264 @@
+label,class
+tourist location,TouristLocation
+point of interest,TouristLocation
+location,TouristLocation
+area of interest,TouristLocation
+civicstructure,CivicStructure
+civic structure,CivicStructure
+airport,Airport
+bridge,Bridge
+placeofworship,PlaceOfWorship
+place of worship,PlaceOfWorship
+church,Church
+catholicchurch,CatholicChurch
+catholic church,CatholicChurch
+mosque,Mosque
+buddhisttemple,BuddhistTemple
+buddhist temple,BuddhistTemple
+synagogue,Synagogue
+hindutemple,HinduTemple
+hindu temple,HinduTemple
+museum,Museum
+park,Park
+water park,WaterPark
+performingartstheater,PerformingArtsTheater
+performing arts theater,PerformingArtsTheater
+theatre,Theatre
+cemetery,Cemetery
+subwaystation,SubwayStation
+subway station,SubwayStation
+train station,TrainStation
+trainstation,TrainStation
+zoo,Zoo
+musicvenue,MusicVenue
+music venue,MusicVenue
+busstation,BusStation
+bus station,BusStation
+boatterminal,BoatTerminal
+boat terminal,BoatTerminal
+educationalorganization,EducationalOrganization
+educational organization,EducationalOrganization
+school,School
+preschool,Preschool
+middleschool,MiddleSchool
+middle school,MiddleSchool
+highschool,HighSchool
+high school,HighSchool
+elementaryschool,ElementarySchool
+elementary school,ElementarySchool
+collegeoruniversity,CollegeOrUniversity
+college or university,CollegeOrUniversity
+public toilet,PublicToilet
+public bath,PublicToilet
+rvpark,RVPark
+aquarium,Aquarium
+playground,Playground
+children's playground,Playground
+indoor play area,Playground
+governmentbuilding,GovernmentBuilding
+government building,GovernmentBuilding
+cityhall,CityHall
+city hall,CityHall
+legislativebuilding,LegislativeBuilding
+legislative building,LegislativeBuilding
+embassy,Embassy
+defenceestablishment,DefenceEstablishment
+defence establishment,DefenceEstablishment
+courthouse,Courthouse
+busstop,BusStop
+bus stop,BusStop
+crematorium,Crematorium
+eventvenue,EventVenue
+event venue,EventVenue
+beach,Beach
+sand beach,Beach
+parkingfacility,ParkingFacility
+parking facility,ParkingFacility
+parking,ParkingFacility
+paid street parking off premises,ParkingFacility
+paid parking on premises,ParkingFacility
+paid parking garage off premises,ParkingFacility
+free parking on premises,ParkingFacility
+car park,ParkingFacility
+parking place,ParkingFacility
+parking space,ParkingFacility
+parking garage,ParkingGarage
+secured parking,SecuredParking
+secure parking,SecuredParking
+street parking,StreetParking
+free street parking,StreetParking
+accessible parking,AccessibleParking
+paid parking off premises,PaidParkingOffPremises
+taxistand,TaxiStand
+taxi stand,TaxiStand
+landform,Landform
+bodyofwater,BodyOfWater
+body of water,BodyOfWater
+canal,Canal
+lakebodyofwater,LakeBodyOfWater
+lake body of water,LakeBodyOfWater
+oceanbodyofwater,OceanBodyOfWater
+ocean body of water,OceanBodyOfWater
+pond,Pond
+reservoir,Reservoir
+seabodyofwater,SeaBodyOfWater
+sea body of water,SeaBodyOfWater
+sea,SeaBodyOfWater
+waterfall,Waterfall
+riverbodyofwater,RiverBodyOfWater
+river body of water,RiverBodyOfWater
+continent,Continent
+mountain,Mountain
+volcano,Volcano
+administrativearea,AdministrativeArea
+administrative area,AdministrativeArea
+country,Country
+city,City
+village,City
+town,City
+state,State
+schooldistrict,SchoolDistrict
+school district,SchoolDistrict
+localbusiness,LocalBusiness
+local business,LocalBusiness
+emergencyservice,EmergencyService
+emergency service,EmergencyService
+hospital,Hospital
+policestation,PoliceStation
+police station,PoliceStation
+firestation,FireStation
+fire station,FireStation
+foodestablishment,FoodEstablishment
+food establishment,FoodEstablishment
+restaurant,Restaurant
+restaurant pizzeria,Restaurant
+barorpub,BarOrPub
+bar or pub,BarOrPub
+bakery,Bakery
+cafeorcoffeeshop,CafeOrCoffeeShop
+cafe or coffee shop,CafeOrCoffeeShop
+icecreamshop,IceCreamShop
+ice cream shop,IceCreamShop
+winery,Winery
+fastfoodrestaurant,FastFoodRestaurant
+fast food restaurant,FastFoodRestaurant
+distillery,Distillery
+brewery,Brewery
+shoppingcenter,ShoppingCenter
+shopping center,ShoppingCenter
+sportsactivitylocation,SportsActivityLocation
+sports activity location,SportsActivityLocation
+stadiumorarena,StadiumOrArena
+stadium or arena,StadiumOrArena
+golfcourse,GolfCourse
+golf course,GolfCourse
+golf courses,GolfCourse
+publicswimmingpool,PublicSwimmingPool
+public swimming pool,PublicSwimmingPool
+exercisegym,ExerciseGym
+exercise gym,ExerciseGym
+tenniscomplex,TennisComplex
+tennis complex,TennisComplex
+bowlingalley,BowlingAlley
+bowling alley,BowlingAlley
+bowling,BowlingAlley
+sportsclub,SportsClub
+sports club,SportsClub
+skiresort,SkiResort
+ski resort,SkiResort
+library,Library
+governmentoffice,GovernmentOffice
+government office,GovernmentOffice
+postoffice,PostOffice
+post office,PostOffice
+store,Store
+shop,Store
+computerstore,ComputerStore
+computer store,ComputerStore
+hobbyshop,HobbyShop
+hobby shop,HobbyShop
+outletstore,OutletStore
+outlet store,OutletStore
+clothingstore,ClothingStore
+clothing store,ClothingStore
+grocerystore,GroceryStore
+grocery store,GroceryStore
+musicstore,MusicStore
+music store,MusicStore
+bookstore,BookStore
+book store,BookStore
+florist,Florist
+mobilephonestore,MobilePhoneStore
+mobile phone store,MobilePhoneStore
+electronicsstore,ElectronicsStore
+electronics store,ElectronicsStore
+mensclothingstore,MensClothingStore
+mens clothing store,MensClothingStore
+toystore,ToyStore
+toy store,ToyStore
+departmentstore,DepartmentStore
+department store,DepartmentStore
+liquorstore,LiquorStore
+liquor store,LiquorStore
+sportinggoodsstore,SportingGoodsStore
+sporting goods store,SportingGoodsStore
+conveniencestore,ConvenienceStore
+convenience store,ConvenienceStore
+jewelrystore,JewelryStore
+jewelry store,JewelryStore
+shoestore,ShoeStore
+shoe store,ShoeStore
+supermarket,Supermarket
+entertainmentbusiness,EntertainmentBusiness
+entertainment business,EntertainmentBusiness
+movietheater,MovieTheater
+movie theater,MovieTheater
+nightclub,NightClub
+night club,NightClub
+nightclub/dj,NightClub
+comedyclub,ComedyClub
+comedy club,ComedyClub
+casino,Casino
+artgallery,ArtGallery
+art gallery,ArtGallery
+temporary art galleries,TemporaryArtGalleries
+amusementpark,AmusementPark
+amusement park,AmusementPark
+adultentertainment,AdultEntertainment
+adult entertainment,AdultEntertainment
+internetcafe,InternetCafe
+internet cafe,InternetCafe
+healthandbeautybusiness,HealthAndBeautyBusiness
+health and beauty business,HealthAndBeautyBusiness
+tattooparlor,TattooParlor
+tattoo parlor,TattooParlor
+nailsalon,NailSalon
+nail salon,NailSalon
+healthclub,HealthClub
+health club,HealthClub
+hairsalon,HairSalon
+hair salon,HairSalon
+dayspa,DaySpa
+day spa,DaySpa
+spa center,DaySpa
+spa facilities,DaySpa
+spa and wellness centre,DaySpa
+spa lounge/relaxation area,SpaLoungeRelaxationArea
+beautysalon,BeautySalon
+beauty salon,BeautySalon
+hair/beauty salon,BeautySalon
+barber/beauty shop,BeautySalon
+dentist,Dentist
+travelagency,TravelAgency
+travel agency,TravelAgency
+drycleaningorlaundry,DryCleaningOrLaundry
+dry cleaning or laundry,DryCleaningOrLaundry
+touristinformationcenter,TouristInformationCenter
+tourist information center,TouristInformationCenter
+touristattraction,TouristAttraction
+tourist attraction,TouristAttraction
+attraction,TouristAttraction
+landmarksorhistoricalbuildings,LandmarksOrHistoricalBuildings
+landmarks or historical buildings,LandmarksOrHistoricalBuildings
+city center,CityCenter
+town centre,CityCenter
